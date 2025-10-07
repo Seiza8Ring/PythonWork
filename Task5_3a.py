@@ -1,4 +1,5 @@
 # Task 5: Free Throw Tracker
+# Get vars
 throws = int(input("How many free throws will you attempt? "))
 shot = 'n'
 score = 0
@@ -10,3 +11,4 @@ for i in range(throws):
     else: print(f"Current score: {score}")
 
 print(f"Final score: {score} out of {throws}")
+
