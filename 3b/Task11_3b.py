@@ -15,3 +15,5 @@ if is_prime == 1:
 elif is_prime == 0:
     print(f"{num} is a prime number")
 else: print("ERROR")
+
+# THIS DOES NOT WORK CORRECTLY, THIS IS ONLY AN ATTEMPT
